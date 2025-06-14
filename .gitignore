@@ -1,0 +1,11 @@
+# Ignore virtual environments
+DeepLearningEnv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Ignore VSCode config files
+.vscode/
+
+# Ignore Jupyter runtime
+*.ipynb_checkpoints/
